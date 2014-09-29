@@ -1,0 +1,8 @@
+-- Elasticsearch 1.3.2
+- kopf plugin (http://<hostname>:9200/_plugin/kopf/)
+- kibana3 plugin (http://<hostname>:9200/_plugin/kibana3/)
+
+-- Logstash 1.4.2
+- elasticsearch output
+- text input (tcp port 3333)
+- json input (tcp port 3334)
